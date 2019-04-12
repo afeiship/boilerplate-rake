@@ -1,0 +1,17 @@
+{
+  "name": "boilerplate-rake",
+  "version": "1.0.0",
+  "description": "boilerplate-rake-desc",
+  "main": "index.rake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/boilerplate-rake.git"
+  },
+  "keywords": ["rake", "task"],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/boilerplate-rake/issues"
+  },
+  "homepage": "https://github.com/afeiship/boilerplate-rake#readme"
+}
