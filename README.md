@@ -1,5 +1,5 @@
 # boilerplate-rake
-> boilerplate-rake-desc
+> boilerplate-rake-description
 
 ## install
 ```bash

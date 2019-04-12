@@ -1,7 +1,7 @@
 {
   "name": "boilerplate-rake",
   "version": "1.0.0",
-  "description": "boilerplate-rake-desc",
+  "description": "boilerplate-rake-description",
   "main": "index.rake",
   "repository": {
     "type": "git",
