@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm i -D afeiship/boilerplate-rake
+npm i -D @feizheng/boilerplate-rake
 ```
 
 ## usage
