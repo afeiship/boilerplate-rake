@@ -5,7 +5,7 @@
   "main": "index.rake",
   "repository": {
     "type": "git",
-    "url": "https://github.com/afeiship/@feizheng/boilerplate-rake"
+    "url": "https://github.com/afeiship/boilerplate-rake.git"
   },
   "keywords": [
     "rake",
@@ -20,5 +20,5 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "boilerplate": "@feizheng/boilerplate-rake"
+  "boilerplate": "boilerplate-rake"
 }
